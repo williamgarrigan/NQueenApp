@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NQueenApp", "NQueenApp\NQueenApp.csproj", "{0F625C75-B962-4F6F-AB20-97B13D1F5A54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F625C75-B962-4F6F-AB20-97B13D1F5A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F625C75-B962-4F6F-AB20-97B13D1F5A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F625C75-B962-4F6F-AB20-97B13D1F5A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F625C75-B962-4F6F-AB20-97B13D1F5A54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24F6E5AC-8F0C-4243-B8AA-E9D843226EAF}
+	EndGlobalSection
+EndGlobal
